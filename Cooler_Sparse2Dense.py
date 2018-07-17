@@ -1,6 +1,6 @@
 '''
 Convert the cooler sparse format data to dense matrix
-Contact : hisabou-m@cdb.riken.jp
+Contact : hisashi.miura@riken.jp
 '''
 
 import numpy as np
